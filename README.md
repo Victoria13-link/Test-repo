@@ -1,6 +1,6 @@
 # Test-repo
 
-A simple project repository.
+Front-end project built following the [roadmap.sh](https://roadmap.sh/projects/single-page-cv) front-end developer path.
 
 ## Project URL
 
